@@ -7,3 +7,4 @@
 
 ### Introduction to DataScience In Python 
 ### Applied Plotting and Representation in python
+### Applied Machine Learning in Python
