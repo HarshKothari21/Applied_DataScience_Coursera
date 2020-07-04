@@ -6,5 +6,10 @@
 - **Assignments** - A practice to real life problem based datasets
 
 ### Introduction to DataScience In Python 
+- Pandas 
+- Numpy
 ### Applied Plotting and Representation in python
+- Matplotlib
+- Seaborn
 ### Applied Machine Learning in Python
+- Scikit-Learn
