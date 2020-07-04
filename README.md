@@ -1,5 +1,5 @@
 # Applied Datascience in Python
-**Professional Certification Of Data Science with Python By University of Michigan** 
+Professional Certification Of Data Science with Python By University of Michigan 
 
 - **Lecture Notes** - Consist of Basic Python Syntax, Pandas Module of python for analysis in detail, Numpy Module of python in detail
 
