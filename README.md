@@ -14,3 +14,5 @@ Professional Certification Of Data Science with Python By University of Michigan
 - Seaborn
 ##### Applied Machine Learning in Python
 - Scikit-Learn
+##### Applied Text mining in Python
+- Nltk
