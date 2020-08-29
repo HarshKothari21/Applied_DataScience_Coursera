@@ -16,3 +16,5 @@ Professional Certification Of Data Science with Python By University of Michigan
 - Scikit-Learn
 ##### Applied Text mining in Python
 - Nltk
+##### Applied Social Media Analysis in Python
+- NetworkX
